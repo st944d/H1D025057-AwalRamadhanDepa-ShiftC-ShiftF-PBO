@@ -78,94 +78,94 @@ Untuk menjalankan fitur tertentu, masukkan nomor pilihan sesuai menu yang ditamp
 
 ### Syarat 1 – State and Behavior
 
-![Syarat 1 - Screenshot 1](src/Responsi/screenshots/Syarat%201/Screenshot%202026-11-08%20233643.png)
+![Syarat 1 - Screenshot 1](src/Responsi/Screenshots/Syarat%201/Screenshot%202026-11-08%20233643.png)
 
-![Syarat 1 - Screenshot 2](src/Responsi/screenshots/Syarat%201/Screenshot%202026-11-08%20233755.png)
+![Syarat 1 - Screenshot 2](src/Responsi/Screenshots/Syarat%201/Screenshot%202026-11-08%20233755.png)
 
-![Syarat 1 - Screenshot 3](src/Responsi/screenshots/Syarat%201/Screenshot%202026-11-08%20233951.png)
+![Syarat 1 - Screenshot 3](src/Responsi/Screenshots/Syarat%201/Screenshot%202026-11-08%20233951.png)
 
-![Syarat 1 - Screenshot 4](src/Responsi/screenshots/Syarat%201/Screenshot%202026-11-09%20000031.png)
+![Syarat 1 - Screenshot 4](src/Responsi/Screenshots/Syarat%201/Screenshot%202026-11-09%20000031.png)
 
 ### Syarat 2 – Immutability
 
-![Syarat 2 - Screenshot 1](src/Responsi/screenshots/Syarat%202/Screenshot%202026-11-08%20235416.png)
+![Syarat 2 - Screenshot 1](src/Responsi/Screenshots/Syarat%202/Screenshot%202026-11-08%20235416.png)
 
-![Syarat 2 - Screenshot 2](src/Responsi/screenshots/Syarat%202/Screenshot%202026-11-08%20235437.png)
+![Syarat 2 - Screenshot 2](src/Responsi/Screenshots/Syarat%202/Screenshot%202026-11-08%20235437.png)
 
-![Syarat 2 - Screenshot 3](src/Responsi/screenshots/Syarat%202/Screenshot%202026-11-08%20235927.png)
+![Syarat 2 - Screenshot 3](src/Responsi/Screenshots/Syarat%202/Screenshot%202026-11-08%20235927.png)
 
 ### Syarat 3 – Encapsulation and Overloading
 
-![Syarat 3 - Screenshot 1](src/Responsi/screenshots/Syarat%203/Screenshot%202026-11-09%20000521.png)
+![Syarat 3 - Screenshot 1](src/Responsi/Screenshots/Syarat%203/Screenshot%202026-11-09%20000521.png)
 
-![Syarat 3 - Screenshot 2](src/Responsi/screenshots/Syarat%203/Screenshot%202026-11-09%20000615.png)
+![Syarat 3 - Screenshot 2](src/Responsi/Screenshots/Syarat%203/Screenshot%202026-11-09%20000615.png)
 
-![Syarat 3 - Screenshot 3](src/Responsi/screenshots/Syarat%203/Screenshot%202026-11-09%20000704.png)
+![Syarat 3 - Screenshot 3](src/Responsi/Screenshots/Syarat%203/Screenshot%202026-11-09%20000704.png)
 
 ### Syarat 4 – Inheritance
 
-![Syarat 4 - Screenshot 1](src/Responsi/screenshots/Syarat%204/Screenshot%202026-11-09%20001001.png)
+![Syarat 4 - Screenshot 1](src/Responsi/Screenshots/Syarat%204/Screenshot%202026-11-09%20001001.png)
 
-![Syarat 4 - Screenshot 2](src/Responsi/screenshots/Syarat%204/Screenshot%202026-11-09%20001048.png)
+![Syarat 4 - Screenshot 2](src/Responsi/Screenshots/Syarat%204/Screenshot%202026-11-09%20001048.png)
 
-![Syarat 4 - Screenshot 3](src/Responsi/screenshots/Syarat%204/Screenshot%202026-11-09%20001118.png)
+![Syarat 4 - Screenshot 3](src/Responsi/Screenshots/Syarat%204/Screenshot%202026-11-09%20001118.png)
 
-![Syarat 4 - Screenshot 4](src/Responsi/screenshots/Syarat%204/Screenshot%202026-11-09%20001141.png)
+![Syarat 4 - Screenshot 4](src/Responsi/Screenshots/Syarat%204/Screenshot%202026-11-09%20001141.png)
 
 ### Syarat 5 – Super Chaining
 
-![Syarat 5 - Screenshot 1](src/Responsi/screenshots/Syarat%205/Screenshot%202026-11-09%20001958.png)
+![Syarat 5 - Screenshot 1](src/Responsi/Screenshots/Syarat%205/Screenshot%202026-11-09%20001958.png)
 
-![Syarat 5 - Screenshot 2](src/Responsi/screenshots/Syarat%205/Screenshot%202026-11-09%20002015.png)
+![Syarat 5 - Screenshot 2](src/Responsi/Screenshots/Syarat%205/Screenshot%202026-11-09%20002015.png)
 
-![Syarat 5 - Screenshot 3](src/Responsi/screenshots/Syarat%205/Screenshot%202026-11-09%20002044.png)
+![Syarat 5 - Screenshot 3](src/Responsi/Screenshots/Syarat%205/Screenshot%202026-11-09%20002044.png)
 
-![Syarat 5 - Screenshot 4](src/Responsi/screenshots/Syarat%205/Screenshot%202026-11-09%20002130.png)
+![Syarat 5 - Screenshot 4](src/Responsi/Screenshots/Syarat%205/Screenshot%202026-11-09%20002130.png)
 
 ### Syarat 6 – Method Overriding
 
-![Syarat 6 - Screenshot 1](src/Responsi/screenshots/Syarat%206/Screenshot%202026-11-09%20002313.png)
+![Syarat 6 - Screenshot 1](src/Responsi/Screenshots/Syarat%206/Screenshot%202026-11-09%20002313.png)
 
-![Syarat 6 - Screenshot 2](src/Responsi/screenshots/Syarat%206/Screenshot%202026-11-09%20002350.png)
+![Syarat 6 - Screenshot 2](src/Responsi/Screenshots/Syarat%206/Screenshot%202026-11-09%20002350.png)
 
-![Syarat 6 - Screenshot 3](src/Responsi/screenshots/Syarat%206/Screenshot%202026-11-09%20002416.png)
+![Syarat 6 - Screenshot 3](src/Responsi/Screenshots/Syarat%206/Screenshot%202026-11-09%20002416.png)
 
-![Syarat 6 - Screenshot 4](src/Responsi/screenshots/Syarat%206/Screenshot%202026-11-09%20002431.png)
+![Syarat 6 - Screenshot 4](src/Responsi/Screenshots/Syarat%206/Screenshot%202026-11-09%20002431.png)
 
 ### Syarat 7 – Abstract Class
 
-![Syarat 7 - Screenshot 1](src/Responsi/screenshots/Syarat%207/Screenshot%202026-11-09%20003149.png)
+![Syarat 7 - Screenshot 1](src/Responsi/Screenshots/Syarat%207/Screenshot%202026-11-09%20003149.png)
 
-![Syarat 7 - Screenshot 2](src/Responsi/screenshots/Syarat%207/Screenshot%202026-11-09%20003319.png)
+![Syarat 7 - Screenshot 2](src/Responsi/Screenshots/Syarat%207/Screenshot%202026-11-09%20003319.png)
 
-![Syarat 7 - Screenshot 3](src/Responsi/screenshots/Syarat%207/Screenshot%202026-11-09%20003335.png)
+![Syarat 7 - Screenshot 3](src/Responsi/Screenshots/Syarat%207/Screenshot%202026-11-09%20003335.png)
 
-![Syarat 7 - Screenshot 4](src/Responsi/screenshots/Syarat%207/Screenshot%202026-11-09%20003359.png)
+![Syarat 7 - Screenshot 4](src/Responsi/Screenshots/Syarat%207/Screenshot%202026-11-09%20003359.png)
 
 ### Syarat 8 – Branching State Logic
 
-![Syarat 8 - Screenshot 1](src/Responsi/screenshots/Syarat%208/Screenshot%202026-11-09%20004911.png)
+![Syarat 8 - Screenshot 1](src/Responsi/Screenshots/Syarat%208/Screenshot%202026-11-09%20004911.png)
 
-![Syarat 8 - Screenshot 2](src/Responsi/screenshots/Syarat%208/Screenshot%202026-11-09%20005000.png)
+![Syarat 8 - Screenshot 2](src/Responsi/Screenshots/Syarat%208/Screenshot%202026-11-09%20005000.png)
 
 ### Syarat 9 – Interface Polymorphism
 
-![Syarat 9 - Screenshot 1](src/Responsi/screenshots/Syarat%209/Screenshot%202026-11-09%20005737.png)
+![Syarat 9 - Screenshot 1](src/Responsi/Screenshots/Syarat%209/Screenshot%202026-11-09%20005737.png)
 
-![Syarat 9 - Screenshot 2](src/Responsi/screenshots/Syarat%209/Screenshot%202026-11-09%20005750.png)
+![Syarat 9 - Screenshot 2](src/Responsi/Screenshots/Syarat%209/Screenshot%202026-11-09%20005750.png)
 
-![Syarat 9 - Screenshot 3](src/Responsi/screenshots/Syarat%209/Screenshot%202026-11-09%20005838.png)
+![Syarat 9 - Screenshot 3](src/Responsi/Screenshots/Syarat%209/Screenshot%202026-11-09%20005838.png)
 
-![Syarat 9 - Screenshot 4](src/Responsi/screenshots/Syarat%209/Screenshot%202026-11-09%20005859.png)
+![Syarat 9 - Screenshot 4](src/Responsi/Screenshots/Syarat%209/Screenshot%202026-11-09%20005859.png)
 
 ### Syarat 10 – Multiple Interface
 
-![Syarat 10 - Screenshot 1](src/Responsi/screenshots/Syarat%2010/Screenshot%202026-11-09%20001141%20-%20Copy.png)
+![Syarat 10 - Screenshot 1](src/Responsi/Screenshots/Syarat%2010/Screenshot%202026-11-09%20001141%20-%20Copy.png)
 
-![Syarat 10 - Screenshot 2](src/Responsi/screenshots/Syarat%2010/Screenshot%202026-11-09%20010041.png)
+![Syarat 10 - Screenshot 2](src/Responsi/Screenshots/Syarat%2010/Screenshot%202026-11-09%20010041.png)
 
-![Syarat 10 - Screenshot 3](src/Responsi/screenshots/Syarat%2010/Screenshot%202026-11-09%20010104.png)
+![Syarat 10 - Screenshot 3](src/Responsi/Screenshots/Syarat%2010/Screenshot%202026-11-09%20010104.png)
 
-![Syarat 10 - Screenshot 4](src/Responsi/screenshots/Syarat%2010/Screenshot%202026-11-09%20010121.png)
+![Syarat 10 - Screenshot 4](src/Responsi/Screenshots/Syarat%2010/Screenshot%202026-11-09%20010121.png)
 
-![Syarat 10 - Screenshot 5](src/Responsi/screenshots/Syarat%2010/Screenshot%202026-11-09%20010148.png)
+![Syarat 10 - Screenshot 5](src/Responsi/Screenshots/Syarat%2010/Screenshot%202026-11-09%20010148.png)
